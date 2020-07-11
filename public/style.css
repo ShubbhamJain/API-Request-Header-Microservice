@@ -1,0 +1,33 @@
+body {
+  background-color: #343834;
+  color: #fff;
+}
+
+.container {
+  text-align: center;
+  padding: 20px 60px;
+  font-family: "Work Sans", sans-serif;
+  line-height: 1.2;
+}
+
+#use {
+  margin-top: 30px;
+}
+
+#description {
+  padding: 0px 50px;
+}
+
+#exusage {
+  margin-top: 40px;
+}
+
+#exout {
+  margin-top: 40px;
+}
+
+#code {
+  background-color: #f2f2f2;
+  color: #000;
+  margin: 0px 50px;
+}
