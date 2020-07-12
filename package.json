@@ -1,7 +1,7 @@
 {
   "name": "api-request-header-parser-microservice",
   "version": "1.0.0",
-  "description": "I can get the IP address, preferred languages (from header Accept-Language) and system infos (from header User-Agent) for my device",
+  "description": "API gets the IP address, preferred languages (from header Accept-Language) and system infos (from header User-Agent) for the device",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

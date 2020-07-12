@@ -1,6 +1,6 @@
 body {
-  background-color: #343834;
-  color: #fff;
+  background-color: skyblue;
+  color: #000;
 }
 
 .container {
@@ -27,7 +27,6 @@ body {
 }
 
 #code {
-  background-color: #f2f2f2;
-  color: #000;
+  background-color: #ececec;
   margin: 0px 50px;
 }
